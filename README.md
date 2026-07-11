@@ -1,6 +1,22 @@
-# Customer-Shopping_behavior
-End-to-end Customer Shopping Behavior Analysis using Excel, Python, SQL, Power BI, and Tableau. Includes data cleaning, EDA, feature engineering, business insights, and interactive dashboards.
-
+Customer-Shopping-Behavior/
+│
+├── python/
+│   └── Customer_Shopping_Behavior.ipynb
+│
+├── data/
+│   └── customer_shopping.csv
+│
+├── sql/
+│   ├── database.sql
+│   └── queries.sql
+│
+├── tableau/
+│   ├── Customer_Shopping_Dashboard.twb
+│   ├── Customer_Shopping_Dashboard.twbx
+│   └── dashboard.png
+│
+├── README.md
+└── requirements.txt
 
 
 
