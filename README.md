@@ -1,10 +1,16 @@
+## 📂 Project Structure
+
+```text
 Customer-Shopping-Behavior/
 │
 ├── python/
-│   └── Customer_Shopping_Behavior.ipynb
+│   ├── Customer_Shopping_Behavior.ipynb
+│   ├── data_cleaning.py
+│   └── feature_engineering.py
 │
 ├── data/
-│   └── customer_shopping.csv
+│   ├── customer_shopping.csv
+│   └── customer_shopping.xlsx
 │
 ├── sql/
 │   ├── database.sql
@@ -15,8 +21,15 @@ Customer-Shopping-Behavior/
 │   ├── Customer_Shopping_Dashboard.twbx
 │   └── dashboard.png
 │
+├── screenshots/
+│   ├── python_output.png
+│   ├── mysql_output.png
+│   └── tableau_dashboard.png
+│
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── LICENSE
+```
 
 
 
