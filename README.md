@@ -38,7 +38,7 @@ The project focuses on understanding customer demographics, product performance,
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard]
 
 ---
 
@@ -129,6 +129,14 @@ Customer-Shopping-Behavior-Dashboard/
 ```
 
 ---
+## 📈 Project Outcomes
+
+- Developed an interactive Tableau dashboard to analyze customer shopping behavior.
+- Identified top-performing categories, brands, and locations through visual analytics.
+- Delivered actionable insights using customer demographics and payment method analysis.
+- Designed dynamic filters and interactive charts to improve user experience.
+- Enabled faster business decision-making through data-driven visualizations.
+- Strengthened practical skills in Tableau, dashboard design, and business intelligence.
 
 ## 🔗 Live Dashboard
 
