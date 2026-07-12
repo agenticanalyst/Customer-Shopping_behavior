@@ -1,6 +1,6 @@
 # 📊 Customer Shopping Behavior Analysis Dashboard
 
-![Project Banner](banner.png)
+![Project Banner](https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/Tableau_dasboards/banner.png)
 
 ---
 
