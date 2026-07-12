@@ -2,43 +2,169 @@
 
 ![Dashboard Preview](https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/Tableau_dasboards/Screenshot%202026-07-12%20181451.png)
 
-## 📌 Project Overview
+---
 
-The **Customer Shopping Behavior Analysis Dashboard** is an interactive Tableau project designed to analyze customer purchasing patterns, sales performance, and business trends. This dashboard transforms raw shopping data into meaningful insights using interactive charts, filters, and visualizations.
+# 📌 Project Overview
 
-The project focuses on understanding customer demographics, product performance, payment preferences, brand sales, location-wise sales, and monthly purchasing trends to support data-driven business decisions.
+The **Customer Shopping Behavior Analysis** project is an end-to-end Data Analytics project that transforms raw customer shopping data into meaningful business insights. The project covers the complete analytics lifecycle, including data cleaning, exploratory data analysis (EDA), SQL-based querying, and interactive Tableau dashboard development.
+
+Using Excel, Python, Pandas, Jupyter Notebook, SQL, and Tableau, this project analyzes customer purchasing behavior, sales trends, payment preferences, demographic distribution, and brand performance to support data-driven business decisions.
 
 ---
 
-## 🎯 Project Objectives
+# 🎯 Project Objectives
 
 - Analyze customer shopping behavior.
-- Identify top-performing product categories and brands.
-- Understand customer demographics.
-- Compare payment method preferences.
-- Analyze location-wise sales performance.
-- Track monthly sales trends.
+- Clean and preprocess raw shopping data.
+- Perform Exploratory Data Analysis (EDA).
+- Analyze business questions using SQL.
 - Build an interactive Tableau dashboard.
+- Generate actionable business insights.
+- Support data-driven decision making.
 
 ---
 
-## 📊 Dashboard Overview
+# 🛠️ Tech Stack
+
+- Microsoft Excel
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+- MySQL
+- Tableau Public
+- Git & GitHub
+
+---
+
+# 🔄 Project Workflow
+
+```text
+Raw Dataset
+      │
+      ▼
+Excel Data Cleaning
+      │
+      ▼
+Python Data Processing
+      │
+      ▼
+Pandas Data Analysis
+      │
+      ▼
+Jupyter Notebook (EDA)
+      │
+      ▼
+SQL Business Queries
+      │
+      ▼
+Tableau Dashboard
+      │
+      ▼
+Business Insights
+```
+
+---
+
+# 📊 Dashboard Overview
 
 | Dashboard | Description |
 |-----------|-------------|
 | 🛒 Sales by Category | Analyze category-wise sales performance. |
 | 👨‍👩‍👧 Sales by Gender | Compare sales between male and female customers. |
-| 🎂 Sales by Age Group | Customer spending by age group. |
-| 💳 Sales by Payment Method | Analyze customer payment preferences. |
+| 🎂 Sales by Age Group | Analyze customer spending by age group. |
+| 💳 Sales by Payment Method | Compare payment preferences. |
 | 🏷️ Sales by Brand | Identify top-performing brands. |
-| 📍 Sales by Location | Compare sales across different locations. |
-| 📈 Monthly Sales Trend | Monitor monthly sales performance. |
+| 📍 Sales by Location | Compare location-wise sales. |
+| 📈 Monthly Sales Trend | Analyze monthly sales performance. |
 
 ---
 
-## 📷 Dashboard Preview
+# 📷 Dashboard Preview
 
-![Dashboard]
+![Dashboard](dashboard.png)
+
+---
+
+# 📂 Project Modules
+
+## 📊 Excel
+
+- Data Cleaning
+- Missing Value Handling
+- Duplicate Removal
+- Data Formatting
+
+➡️ **View Project**
+
+https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/Data/customer_shopping_behavior-clean.csv
+
+---
+
+## 🐍 Python
+
+- Data Import
+- Data Processing
+- Data Transformation
+
+➡️ **View Project**
+
+`./Python/README.md`
+
+---
+
+## 🐼 Pandas
+
+- Data Cleaning
+- Feature Engineering
+- GroupBy Analysis
+- Aggregation
+- Statistical Summary
+
+➡️ **View Project**
+
+https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/python/Customer_shopping_behavior%20(1).ipynb
+
+---
+
+## 📓 Jupyter Notebook
+
+- Exploratory Data Analysis
+- Customer Analysis
+- Trend Analysis
+- Data Visualization
+
+➡️ **View Project**
+
+https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/python/Customer_shopping_behavior%20(1).ipynb
+
+---
+
+## 🗄 SQL
+
+- Customer Analysis
+- Revenue Analysis
+- Category Analysis
+- Brand Analysis
+- Payment Method Analysis
+
+➡️ **View Project**
+
+https://github.com/agenticanalyst/Customer-Shopping_behavior/tree/main/SQl
+
+---
+
+## 📈 Tableau Dashboard
+
+➡️ **View Project**
+
+link - https://public.tableau.com/authoring/Tabbleaudashboards/Dashboard1#1
+
+---
+
+# 📂 Dashboard Sections
+
+### 🛒 Sales by Category
 
 ---
 
@@ -67,87 +193,90 @@ The project focuses on understanding customer demographics, product performance,
 
 ---
 
-## 🛠️ Tools Used
-
-- Tableau Public/Desktop
-- CSV Dataset
-- Data Visualization
-- Dashboard Design
 
 ---
 
-## 💡 Key Insights
+# 📈 Project Outcomes
+
+- Cleaned and transformed raw shopping data using Excel, Python, and Pandas.
+- Performed Exploratory Data Analysis (EDA) to uncover customer purchasing patterns.
+- Executed SQL queries to answer key business questions.
+- Built an interactive Tableau dashboard with filters and dynamic visualizations.
+- Identified top-performing categories, brands, and locations.
+- Analyzed customer demographics and payment preferences.
+- Delivered actionable business insights to support data-driven decisions.
+- Strengthened practical skills in Data Analytics and Business Intelligence.
+
+---
+
+# 💡 Key Insights
 
 - Clothing generated the highest revenue.
 - Young adults contributed significantly to total sales.
 - Credit Card and UPI were the most preferred payment methods.
 - Brand analysis identified high-performing brands.
-- Monthly trends revealed customer purchasing patterns.
+- Monthly sales trends revealed customer purchasing behavior.
 
 ---
 
-## 🚀 Skills Demonstrated
+# 🚀 Skills Demonstrated
 
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- SQL Query Writing
 - Tableau Dashboard Development
 - Data Visualization
 - Business Intelligence
-- Sales Analysis
 - Customer Behavior Analysis
-- Interactive Dashboard Design
+- Dashboard Design
+- Data Storytelling
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```text
-Customer-Shopping-Behavior-Dashboard/
-│── README.md
-│── dashboard.png
-│── Customer_Shopping_Behavior_Dashboard.twb
-│── customer_shopping_behavior.csv
+Customer-Shopping-Behavior-Analysis/
 │
+├── Excel/
+├── Python/
+├── Pandas/
+├── Jupyter Notebook/
+├── SQL/
+├── Tableau/
 ├── Sales by Category/
-│   └── README.md
-│
 ├── Sales by Gender/
-│   └── README.md
-│
 ├── Sales by Age Group/
-│   └── README.md
-│
 ├── Sales by Payment Method/
-│   └── README.md
-│
 ├── Sales by Brand/
-│   └── README.md
-│
 ├── Sales by Location/
-│   └── README.md
+├── Monthly Sales Trend/
 │
-└── Monthly Sales Trend/
-    └── README.md
+├── dashboard.png
+├── customer_shopping_behavior.csv
+├── Customer_Shopping_Behavior_Dashboard.twb
+└── README.md
 ```
 
 ---
-## 📈 Project Outcomes
 
-- Developed an interactive Tableau dashboard to analyze customer shopping behavior.
-- Identified top-performing categories, brands, and locations through visual analytics.
-- Delivered actionable insights using customer demographics and payment method analysis.
-- Designed dynamic filters and interactive charts to improve user experience.
-- Enabled faster business decision-making through data-driven visualizations.
-- Strengthened practical skills in Tableau, dashboard design, and business intelligence.
+# 🔗 Live Dashboard
 
-## 🔗 Live Dashboard
-
-Add your Tableau Public dashboard link here after publishing.
+![link] https://public.tableau.com/authoring/Tabbleaudashboards/Dashboard1#1
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Saurabh Sen**
 
-B.Tech Artificial Intelligence & Data Science
+🎓 B.Tech Artificial Intelligence & Data Science
 
-GitHub: https://github.com/agenticanalyst
+📍 Jabalpur, Madhya Pradesh
+
+### Connect with Me
+
+- GitHub: https://github.com/saurabhbuilds59
+- LinkedIn: https://www.linkedin.com/in/saurabh-sen-a25768330
+- Portfolio: https://saurabh-portfolio-v2.vercel.app
