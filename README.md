@@ -277,6 +277,6 @@ Customer-Shopping-Behavior-Analysis/
 
 ### Connect with Me
 
-- GitHub: https://github.com/saurabhbuilds59
+- GitHub: https://github.com/agenticanalyst
 - LinkedIn: https://www.linkedin.com/in/saurabh-sen-a25768330
-- Portfolio: https://saurabh-portfolio-v2.vercel.app
+- Portfolio: https://www.datascienceportfol.io/saurabhsen937
