@@ -1,6 +1,6 @@
 # 📊 Customer Shopping Behavior Analysis Dashboard
 
-![Dashboard Preview](https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/Tableau_dasboards/Screenshot%202026-07-12%20181451.png)
+![Project Banner](banner.png)
 
 ---
 
@@ -82,7 +82,7 @@ Business Insights
 
 # 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/Tableau_dasboards/Screenshot%202026-07-12%20181451.png)
 
 ---
 
