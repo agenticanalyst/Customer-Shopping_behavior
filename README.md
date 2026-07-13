@@ -180,7 +180,7 @@ link - https://public.tableau.com/authoring/Tabbleaudashboards/Dashboard1#1
 ➡️![Sales by Age Group](https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/Tableau_dasboards/Screenshot%202026-07-12%20194636.png)
 
 ### 💳 Sales by Payment Method
-➡️![Sales by Payment Method](https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/Tableau_dasboards/Screenshot%202026-07-12%20194653.png)
+➡️![Sales by Payment Method](https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/Tableau_dasboards/Screenshot%202026-07-13%20155003.png)
 
 ### 🏷️ Sales by Brand
 ➡️![Sales by Brand](https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/Tableau_dasboards/Screenshot%202026-07-12%20201112.png)
