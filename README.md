@@ -189,7 +189,7 @@ link - https://public.tableau.com/authoring/Tabbleaudashboards/Dashboard1#1
 ➡️![Sales by Location](https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/Tableau_dasboards/Screenshot%202026-07-12%20201057.png)
 
 ### 📈 Monthly Sales Trend
-➡️![Monthly Sales Trend](https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/Tableau_dasboards/Screenshot%202026-07-12%20201112.png)
+➡️![Monthly Sales Trend](https://github.com/agenticanalyst/Customer-Shopping_behavior/blob/main/Tableau_dasboards/Screenshot%202026-07-12%20201126.png)
 
 ---
 
